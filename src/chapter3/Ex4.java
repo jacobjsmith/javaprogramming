@@ -1,4 +1,4 @@
-package selections;
+package chapter3;
 
 public class Ex4 {
 
