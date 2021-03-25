@@ -27,5 +27,7 @@ public class Ex21 {
         double futureInvestmentValue = Math.pow((investmentAmount * (1 + monthlyInterestRate)), (years * 12));
 
         System.out.println("Accumulated value is " + futureInvestmentValue);
+
+
     }
 }
